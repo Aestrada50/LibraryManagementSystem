@@ -43,8 +43,8 @@ The project contains the following main files:
 
 1. Clone the repository to your local machine:
 
-   ```bash
-   git clone https://github.com/Aestrada50/LibraryManagementSystem.git
+git clone https://github.com/Aestrada50/LibraryManagementSystem.git
+
 Navigate to the project directory:
 
 cd LibraryManagementSystem
